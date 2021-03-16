@@ -1,0 +1,69 @@
+.mySkills { background-color: yellow;
+height: 926px;
+width: 96%;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+box-shadow:0px -5px 5px rgb(0, 0, 0);
+z-index: 3;
+}
+
+.skills{margin-left: 10%;
+}
+
+.About{background-color: magenta;
+    font-family: futura-pt, sans-serif;
+font-weight: 500;
+font-style: normal;
+font-size: 25pt;
+text-align: center;
+    width: 125px;
+    border-radius: 15px;
+    padding-top: 5px;
+    transform: rotate(90deg);
+    box-shadow: 0px -5px 5px rgb(0, 0, 0);
+    margin-left: -40px;
+
+
+}
+ul {list-style-type:None;
+}
+li {font-family: 'VT323', monospace;;
+    font-size: 24pt;
+}
+h3 {font-family: futura-pt-bold,sans-serif;
+    font-weight: 700;
+    font-style: bold;
+     font-size: 25pt;}
+
+     .Mywork{ 
+        font-family: futura-pt, sans-serif;
+font-weight: 500;
+font-style: normal;
+font-size: 25pt;
+        background-color: cyan;
+        width: 926px;
+    transform: rotate(90deg);
+    text-align: center;
+    position: absolute;
+right: -410px;
+top: 450px;
+box-shadow:0px -5px 5px rgb(0, 0, 0)
+
+z-index: 2;
+
+}
+.Contact{  font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25pt;
+    color:white;
+    background-color: darkblue;
+    transform: rotate(90deg);
+width: 926px;
+text-align: center;
+position: absolute;
+right: -450px;
+top: 450px;
+
+}
