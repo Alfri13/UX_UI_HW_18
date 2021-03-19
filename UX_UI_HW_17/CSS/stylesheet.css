@@ -1,0 +1,29 @@
+/*this a comment*/
+.inline-block {display: inline-block;
+    vertical-align: top;
+color: black}
+
+.logo{ width: 23%;
+padding: 1%;
+text-align: center}
+
+Nav {width: 73%;
+padding: 1%;}
+
+ul {width: 50%;
+margin-left: auto;}
+
+.heroImg{ 
+    background-color: grey;
+    height:600px;
+    padding:25%;}
+    
+h1, p {text-align: center;}
+
+
+footer {background-color: #373738;
+padding: 0px, 5px;}
+
+.uf{display: inline-block;
+vertical-align: top;
+color:white;}
